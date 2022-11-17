@@ -10,7 +10,8 @@ function BlueButton() {
   return /*#__PURE__*/_react.default.createElement("div", null, /*#__PURE__*/_react.default.createElement("button", {
     style: {
       color: "white",
-      backgroundColor: "blue"
+      backgroundColor: "blue",
+      fontSize: "50px"
     }
-  }, "Blue Button"));
+  }, "Blue Button 1.1.1"));
 }
